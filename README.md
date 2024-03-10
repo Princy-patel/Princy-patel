@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Proficient in HTML, CSS, JavaScript, React Js, Redux, React Routing and other Frontend Frameworks.<br>📚 I love to work with new Technologies and like to learn new things everytime .<br>📧 Contact: Reach me via Email or connect on LinkedIn.<br>🎲 Fun fact: I love exploring nature and have climbed some of the tallest mountains around!</p>
+<p align="left">✨ Proficient in HTML, CSS, JavaScript, React Js, Redux, React Routing and other Frontend Frameworks.<br>📚 I love to work with new Technologies and like to learn new things everytime .<br>📧 Contact: Reach me via <a href="mailto:kapatelprincy@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/princy-patel-63720420a/">LinkedIn</a>.<br>🎲 Fun fact: I love exploring nature and have climbed some of the tallest mountains around!</p>
 
 ###
 
