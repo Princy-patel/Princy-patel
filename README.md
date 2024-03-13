@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <div align="left">
-  <img src="https://github.com/Princy-patel/Princy-patel/assets/82884751/937d02a9-d2e7-41e2-8135-eaac8207e30d" height="100%" width="100%" alt="me"  />
+  <a href="https://main--princy-patel.netlify.app/" target="_blank"><img src="https://github.com/Princy-patel/Princy-patel/assets/82884751/42a490fc-58fc-45e9-b852-44c6ac85ac72" height="100%" width="100%" alt="me" /></a>
 </div>
 
 ###
@@ -11,6 +11,7 @@
 ###
 
 <h2 align="left">About me</h2>
+
 
 ###
 
